@@ -1,1 +1,2 @@
-# Pallab-s-Codes
+👋 Hey there! I'm Pallab
+I'm a 19-year-old student and passionate programmer currently pursuing my Bachelor of Computer Applications (BCA). I have a strong foundation in Python, and I’m actively expanding my skills in Java, Data Structures & Algorithms (DSA), and 8085 Assembly Language. I love exploring how technology shapes both online and offline worlds—especially in areas like digital marketing, software development, and system design.
